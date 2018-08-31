@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Android", "Sales\Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.iOS", "Sales\Sales.iOS\Sales.iOS.csproj", "{F5E1D3D8-E59C-4EB2-A173-3B64319BDAC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales", "Sales\Sales\Sales.csproj", "{BE67941D-84DD-48C6-92A2-96F318E9621D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales", "Sales\Sales\Sales.csproj", "{BE67941D-84DD-48C6-92A2-96F318E9621D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Backend", "Sales.Backend\Sales.Backend.csproj", "{84FCBB5E-FB02-4C1D-8256-8BEF48D2BDB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sale.Api", "Sale.Api\Sale.Api.csproj", "{1F9819A4-0576-47C3-AAFF-BFDBF2AFAC2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Api", "Sale.Api\Sales.Api.csproj", "{1F9819A4-0576-47C3-AAFF-BFDBF2AFAC2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales.Domain", "Sales.Domain\Sales.Domain.csproj", "{F5A19EB9-3593-4429-9045-D0140EB53D83}"
 EndProject
